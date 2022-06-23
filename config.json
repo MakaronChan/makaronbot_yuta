@@ -1,0 +1,9 @@
+{
+	"ip":"game3.falixserver.net",
+	"port": 18369,
+	"name": "MakaronBot",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
